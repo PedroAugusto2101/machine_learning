@@ -59,6 +59,6 @@
 <p>Create a virtual environment using the code 'virtualenv environment_name' in the terminal. After that, you must run 'pip install -r requirements.txt'. Doing that, all the configurations are now ready to make the automation work as it should.
 </p>
 
-<h2>La Liga 2023-2024 Final Table Predicted - 01/14/2024</h2>
+<h2>La Liga 2023-2024 FINAL TABLE PREDICTED - 01/14/2024</h2>
 <img src="final_table.png">
 
